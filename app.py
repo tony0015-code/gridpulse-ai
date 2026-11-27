@@ -123,7 +123,7 @@ st.session_state["tree_votes"] = tree_votes
 # ---------------------------------------------------------
 tab_main, tab_ml = st.tabs([
     "1. Main Scheduling Control Room",
-    "2. Live ML Price Prediction Engine (Synced)"
+    "2. Live ML Price Prediction Engine"
 ])
 
 # ==================== VIEW 1: MAIN SCHEDULING PAGE ====================
